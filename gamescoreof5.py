@@ -6,7 +6,7 @@ pygame.init()
 
 WIDTH, HEIGHT = 750,750
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Tic-Tac-Toe as DSMA Project!")
+pygame.display.set_caption("Tic-Tac-Toe game!")
 
 
 BLACK = (0,0,0)
